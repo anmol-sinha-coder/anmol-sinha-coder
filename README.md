@@ -1,5 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
+My domains:
+_______________________________________________________________________________________________________________________________________
+# Deep Learning & Computer Vision
+<img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width=100 height=100>
+<img src="firstxw.com/Images/2019-03-07/66372-20190307152332462-1751566379.gif" width=100 height=100>
+<img src="https://i.imgur.com/1t7STdM.gif" width=100 height=100>
+<img src="https://nanonets.com/blog/content/images/2019/12/Tesseract.gif" width=200 height=100>
+________________________________________________________________________________________________________________________________________
+# DevOps
+<img src="https://miro.medium.com/max/676/0*OTDBbd-zbG-P-41o.png" width=100 height=100>
+<img src="https://www.redarris.com/assets/img/blog/docker-kubernetes.png" width=200 height=100>
 <!--
 **anmol-sinha-coder/anmol-sinha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
