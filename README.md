@@ -1,6 +1,7 @@
 ## Hi there 👋
-
-My domains:
+```diff
++ My domains:
+```
 _______________________________________________________________________________________________________________________________________
 # Deep Learning & Computer Vision
 <p>
@@ -14,7 +15,13 @@ ________________________________________________________________________________
 <p>
 <img src="https://miro.medium.com/max/676/0*OTDBbd-zbG-P-41o.png" width=100 height=100>
 <img src="https://www.redarris.com/assets/img/blog/docker-kubernetes.png" width=200 height=100>
-<img src="https://imgee.s3.amazonaws.com/imgee/5813bbaf37934f34ac129cc287c102af.png" width=200 height=200>
+<img src="https://imgee.s3.amazonaws.com/imgee/5813bbaf37934f34ac129cc287c102af.png" width=200 height=100>
+</p>
+
+# Cloud Computing
+<p>
+<img src="https://thumbs.gfycat.com/PoliticalMindlessBanteng-small.gif" width=200 height=100>
+<img src="https://static.dribbble.com/users/57858/screenshots/2292590/jeshie_dribbble_cloud.gif" width=200 height=200> 
 </p>
 <!--
 **anmol-sinha-coder/anmol-sinha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
