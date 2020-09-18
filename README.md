@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <img src="https://imgee.s3.amazonaws.com/imgee/5813bbaf37934f34ac129cc287c102af.png" width=200 height=150>
 <img src="https://www.edureka.co/blog/wp-content/uploads/2017/11/ELK.png" width=200 height=200>
 <img src="https://www.openlogic.com/sites/openlogic/files/image/2019-07/image-blog-monitoring-java-applications-with-prometheus-and-grafana-part-2.jpg" width=200 height=200>
-<img src="https://www.hrupin.com/wp-content/uploads/2012/01/Apache-Maven-logo.jpeg" width=100 height=200>
+<img src="https://www.hrupin.com/wp-content/uploads/2012/01/Apache-Maven-logo.jpeg" width=100 height=300>
 </p>
 
 # Cloud Computing
