@@ -16,12 +16,15 @@ ________________________________________________________________________________
 <img src="https://miro.medium.com/max/676/0*OTDBbd-zbG-P-41o.png" width=100 height=100>
 <img src="https://www.redarris.com/assets/img/blog/docker-kubernetes.png" width=200 height=100>
 <img src="https://imgee.s3.amazonaws.com/imgee/5813bbaf37934f34ac129cc287c102af.png" width=200 height=100>
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/2331987/original/dc2247f9b54d3fa8fee0947fc9be00c3b241cd83/write-a-guest-post-about-yours-blog-or-website.png" width=200 height=200>
+<img src="openlogic.com/sites/openlogic/files/image/2019-07/image-blog-monitoring-java-applications-with-prometheus-and-grafana-part-2.jpg" width=200 height=200>
 </p>
 
 # Cloud Computing
 <p>
 <img src="https://thumbs.gfycat.com/PoliticalMindlessBanteng-small.gif" width=200 height=100>
-<img src="https://static.dribbble.com/users/57858/screenshots/2292590/jeshie_dribbble_cloud.gif" width=200 height=200> 
+<img src="https://static.dribbble.com/users/57858/screenshots/2292590/jeshie_dribbble_cloud.gif" width=200 height=200>
+<img src="https://nicovmc.files.wordpress.com/2019/07/terraform_primarylogo_fullcolor.png" width=300 height=100>
 </p>
 <!--
 **anmol-sinha-coder/anmol-sinha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
