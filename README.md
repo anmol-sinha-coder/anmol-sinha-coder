@@ -8,7 +8,7 @@ ________________________________________________________________________________
 <img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width=100 height=100>
 <img src="https://www.kukuxiaai.com/images/tensorflow.gif" width=200 height=100>
 <img src="https://i.imgur.com/1t7STdM.gif" width=100 height=100>
-<img src="https://nanonets.com/blog/content/images/2019/12/Tesseract.gif" width=200 height=100>
+<img src="https://nanonets.com/blog/content/images/2019/12/Tesseract.gif" width=400 height=200>
 </p>
 
 # DevOps
@@ -17,7 +17,7 @@ ________________________________________________________________________________
 <img src="https://www.redarris.com/assets/img/blog/docker-kubernetes.png" width=200 height=100>
 <img src="https://imgee.s3.amazonaws.com/imgee/5813bbaf37934f34ac129cc287c102af.png" width=200 height=150>
 <img src="https://www.edureka.co/blog/wp-content/uploads/2017/11/ELK.png" width=200 height=200>
-<img src="openlogic.com/sites/openlogic/files/image/2019-07/image-blog-monitoring-java-applications-with-prometheus-and-grafana-part-2.jpg" width=200 height=200>
+<img src="https://www.openlogic.com/sites/openlogic/files/image/2019-07/image-blog-monitoring-java-applications-with-prometheus-and-grafana-part-2.jpg" width=200 height=200>
 </p>
 
 # Cloud Computing
