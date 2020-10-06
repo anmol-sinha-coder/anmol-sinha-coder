@@ -1,8 +1,8 @@
 ## Hi there 👋
  :grin:
 ```diff
-+ Do not be misdirected by the small number of repositories, each repository in itself is like a huge Simple Storage Service 
-+ with large number of sub-directories, each with several files of code, falling in each individual domain !
++ Do not be misdirected by the small number of repositories, each repository in itself is like a huge Simple Storage 
++ Service with large number of sub-directories, each with several files of code, falling in each individual domain !
 ```
 
 ![Core Domains :](https://github.com/anmol-sinha-coder/anmol-sinha-coder/blob/master/Core_Domains.gif)
