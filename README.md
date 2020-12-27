@@ -13,7 +13,7 @@ ________________________________________________________________________________
 <img src="https://www.kukuxiaai.com/images/tensorflow.gif" width=200 height=100>
 <img src="https://keras.io/img/logo.png" width=200 height=100>
 <img src="https://i.imgur.com/1t7STdM.gif" width=100 height=100>
-<img src="https://nanonets.com/blog/content/images/2019/12/Tesseract.gif" width=400 height=200>
+<img src="https://nanonets.com/blog/content/images/2019/12/Tesseract.gif" width=300 height=150>
 </p>
 
 # DevOps
