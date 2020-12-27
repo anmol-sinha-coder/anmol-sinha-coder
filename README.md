@@ -12,6 +12,7 @@ ________________________________________________________________________________
 <img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width=100 height=100>
 <img src="https://www.kukuxiaai.com/images/tensorflow.gif" width=200 height=100>
 <img src="https://keras.io/img/logo.png" width=200 height=100>
+<br></br>
 <img src="https://i.imgur.com/1t7STdM.gif" width=100 height=100>
 <img src="https://techscript24.com/wp-content/uploads/2020/10/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width=100 height=100>
 <img src="https://nanonets.com/blog/content/images/2019/12/Tesseract.gif" width=300 height=150>
@@ -22,7 +23,6 @@ ________________________________________________________________________________
 <img src="https://miro.medium.com/max/676/0*OTDBbd-zbG-P-41o.png" width=100 height=100>
 <img src="https://www.redarris.com/assets/img/blog/docker-kubernetes.png" width=200 height=100>
 <img src="https://imgee.s3.amazonaws.com/imgee/5813bbaf37934f34ac129cc287c102af.png" width=200 height=150>
-<br></br>
 <img src="https://www.edureka.co/blog/wp-content/uploads/2017/11/ELK.png" width=200 height=200>
 <img src="https://www.openlogic.com/sites/openlogic/files/image/2019-07/image-blog-monitoring-java-applications-with-prometheus-and-grafana-part-2.jpg" width=200 height=200 />
 <img src="https://www.hrupin.com/wp-content/uploads/2012/01/Apache-Maven-logo.jpeg" height=200 width=400>
