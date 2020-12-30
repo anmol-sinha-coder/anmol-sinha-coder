@@ -26,7 +26,7 @@ ________________________________________________________________________________
 <img src="https://www.edureka.co/blog/wp-content/uploads/2017/11/ELK.png" width=200 height=200>
 <img src="https://www.openlogic.com/sites/openlogic/files/image/2019-07/image-blog-monitoring-java-applications-with-prometheus-and-grafana-part-2.jpg" width=200 height=200 />
 <img src="https://www.hrupin.com/wp-content/uploads/2012/01/Apache-Maven-logo.jpeg" height=200 width=400>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/959px-OpenShift-LogoType.svg.png" height=400 width=200>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/959px-OpenShift-LogoType.svg.png" height=200 width=200>
 </p>
 
 # Cloud Computing
