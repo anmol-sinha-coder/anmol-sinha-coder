@@ -1,5 +1,5 @@
-## Hi there 👋
- :grin:
+## Hi there 👋 :grin:
+
 ```diff
 + Do not be misdirected by the small number of repositories, each repository in itself is like a huge Simple Storage 
 + Service with large number of sub-directories, each with several files of code, falling in each individual domain !
@@ -9,7 +9,7 @@
 _______________________________________________________________________________________________________________________________________
 # Deep Learning & Computer Vision
 <p>
-<img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width=200 height=200>
+<img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" width=100 height=100>
 <img src="https://www.kukuxiaai.com/images/tensorflow.gif" width=200 height=100>
 <img src="https://keras.io/img/logo.png" width=200 height=100>
 <br></br>
