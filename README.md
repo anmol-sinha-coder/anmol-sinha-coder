@@ -43,7 +43,7 @@ ________________________________________________________________________________
 <img src="https://servreality.com/wp-content/uploads/2020/07/C.gif" height=200 width=400>
 <img src="https://miro.medium.com/max/1000/1*A3EN6RoI9LIVpL7EhIGHzQ.gif" height=200 width=400>
 <img src="https://davidwalsh.name/demo/concept.gif" height=200 width=400>
-<img src="https://images1.programmersought.com/14/08/08b90efcdd08a3d559b21c825e6c0efe.jpeg" height=200 width=400>
+<img src="https://images1.programmersought.com/14/08/08b90efcdd08a3d559b21c825e6c0efe.JPEG" height=200 width=400>
 <img src="https://nexax.in/wp-content/uploads/2020/11/java-1.gif" height=200 width=400>
 <img src="https://user-images.githubusercontent.com/54990023/130337112-8a5c765f-6c0d-45f5-8bfb-ebf0aeff2de9.png" height=200 width=400>
 <img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" height=200 width=400>
