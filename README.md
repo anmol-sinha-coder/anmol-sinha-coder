@@ -27,7 +27,6 @@ ________________________________________________________________________________
 <img src="https://www.openlogic.com/sites/openlogic/files/image/2019-07/image-blog-monitoring-java-applications-with-prometheus-and-grafana-part-2.jpg" width=200 height=200 />
 <img src="https://www.hrupin.com/wp-content/uploads/2012/01/Apache-Maven-logo.jpeg" height=200 width=400>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/959px-OpenShift-LogoType.svg.png" height=200 width=200>
-<img src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif" height=200 width=200>
 </p>
 
 # Cloud Computing
@@ -38,6 +37,20 @@ ________________________________________________________________________________
 <img src="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/Uploads/openstack-vert.jpg" width=200 height=200>
 <img src="https://qbd.eu/wp-content/uploads/azure-logo.png" width=400 height=200>
 </p>
+
+# Languages/Libraries/Libraries/Frameworks/Interface
+<p>
+<img src="https://servreality.com/wp-content/uploads/2020/07/C.gif" height=200 width=400>
+<img src="https://miro.medium.com/max/1000/1*A3EN6RoI9LIVpL7EhIGHzQ.gif" height=200 width=400>
+<img src="https://davidwalsh.name/demo/concept.gif" height=200 width=400>
+<img src="https://images1.programmersought.com/14/08/08b90efcdd08a3d559b21c825e6c0efe.jpeg" height=200 width=400>
+<img src="https://nexax.in/wp-content/uploads/2020/11/java-1.gif" height=200 width=400>
+<img src="https://user-images.githubusercontent.com/54990023/130337112-8a5c765f-6c0d-45f5-8bfb-ebf0aeff2de9.png" height=200 width=400>
+<img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" height=200 width=400>
+<img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" height=200 width=400>
+<img src="https://miro.medium.com/max/2000/1*gViWI8dDXWcBkRdDP_CpQQ.png" height=200 width=400>
+</p>
+
 <!--
 **anmol-sinha-coder/anmol-sinha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
