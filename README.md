@@ -1,6 +1,8 @@
 ## Hi there 👋 :grin:
 
 ```diff
+Motivated and solution-oriented developer with experience in fields of Data Analysis, Deep Learning(Artificial Neural Networks), Natural Language Processing and Computer Vision, as well as CI/CD and automation (with Jenkins, Docker, Kubernetes, Prometheus, Grafana, ELK Stack) as well as Cloud technologies like AWS and GCP. Passionate about data security with use of the latest technology and tools. Experienced and trained in managing Linux distros such as Kali Linux, Debian GNU/Ubuntu, Redhat/CentOS.
+
 + Do not be misdirected by the small number of repositories, each repository in itself is like a huge Simple Storage 
 + Service with large number of sub-directories, each with several files of code, falling in each individual domain !
 ```
