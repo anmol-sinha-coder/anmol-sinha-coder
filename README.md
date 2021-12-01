@@ -1,10 +1,21 @@
 ## Hi there 👋 :grin:
 
 ```diff
-! Motivated and solution-oriented developer with experience in fields of Data Analytics, Deep Learning(Artificial Neural Networks), Natural Language Processing and Computer Vision, and Audio Processing.
-+ Experienced in CI/CD and automation (with Jenkins, Docker, Kubernetes, Prometheus, Grafana, ELK Stack, Hadoop[Scala, Hive, MapReduce etc]).
-! Well-versed with Cloud technologies like AWS and GCP as well as IaC tool Terraform for Hybrid-Multi Cloud integration.
-+ Passionate about data security with use of the latest technology and tools. Experienced and trained in managing Linux distros such as Kali Linux, Debian GNU/Ubuntu, Redhat/CentOS.
+! Motivated and solution-oriented developer with experience in fields of 
++ Data Analytics, Deep Learning(Artificial Neural Networks), 
++ Natural Language Processing, 
++ Computer Vision, and
++ Audio Processing.
+! Experienced in CI/CD and automation, with tools and technologies:-
++ Jenkins, 
++ Docker,
++ Kubernetes,
++ Prometheus, 
++ Grafana, 
++ ELK Stack, 
++ Hadoop[Scala, Hive, MapReduce etc].
+! Well-versed with Cloud technologies like AWS and Azure as well as IaC tool Terraform for Hybrid-Multi Cloud integration.
+! Experienced and trained in managing Linux distros such as Kali Linux, Debian GNU/Ubuntu (Ubuntu, Kubuntu), Redhat/CentOS.
 ```
 
 ![Core Domains :](https://github.com/anmol-sinha-coder/anmol-sinha-coder/blob/master/Core_Domains.gif)
