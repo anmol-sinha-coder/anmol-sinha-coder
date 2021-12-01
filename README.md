@@ -1,10 +1,10 @@
 ## Hi there 👋 :grin:
 
 ```diff
-Motivated and solution-oriented developer with experience in fields of Data Analysis, Deep Learning(Artificial Neural Networks), Natural Language Processing <br/> and Computer Vision, as well as CI/CD and automation (with Jenkins, Docker, Kubernetes, Prometheus, Grafana, ELK Stack) as well as Cloud technologies like AWS and GCP.<br/> Passionate about data security with use of the latest technology and tools. Experienced and trained in managing Linux distros such as Kali Linux, Debian GNU/Ubuntu, Redhat/CentOS.
-
-+ Do not be misdirected by the small number of repositories, each repository in itself is like a huge Simple Storage 
-+ Service with large number of sub-directories, each with several files of code, falling in each individual domain !
+! Motivated and solution-oriented developer with experience in fields of Data Analytics, Deep Learning(Artificial Neural Networks), Natural Language Processing and Computer Vision, and Audio Processing.
++ Experienced in CI/CD and automation (with Jenkins, Docker, Kubernetes, Prometheus, Grafana, ELK Stack, Hadoop[Scala, Hive, MapReduce etc]).
+! Well-versed with Cloud technologies like AWS and GCP as well as IaC tool Terraform for Hybrid-Multi Cloud integration.
++ Passionate about data security with use of the latest technology and tools. Experienced and trained in managing Linux distros such as Kali Linux, Debian GNU/Ubuntu, Redhat/CentOS.
 ```
 
 ![Core Domains :](https://github.com/anmol-sinha-coder/anmol-sinha-coder/blob/master/Core_Domains.gif)
@@ -53,6 +53,13 @@ ________________________________________________________________________________
 <img src="https://miro.medium.com/max/1000/1*gViWI8dDXWcBkRdDP_CpQQ.png" height=100 width=200>
 <img src="https://cdn.dribbble.com/users/6295/screenshots/6509850/f.gif" height=100 width=200>
 </p>
+
+
+<hr>
+```diff
++ Do not be misdirected by the small number of repositories, each repository in itself is like a huge Simple Storage 
++ Service with large number of sub-directories, each with several files of code, falling in each individual domain !
+```
 
 <!--
 **anmol-sinha-coder/anmol-sinha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
