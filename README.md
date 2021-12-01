@@ -33,7 +33,7 @@ ________________________________________________________________________________
 <p>
 <img src="https://thumbs.gfycat.com/PoliticalMindlessBanteng-small.gif" width=125 height=75>
 <img src="https://static.dribbble.com/users/57858/screenshots/2292590/jeshie_dribbble_cloud.gif" width=100 height=100>
-<img src="https://nicovmc.files.wordpress.com/2019/07/terraform_primarylogo_fullcolor.png" width=125 height=25>
+<img src="https://nicovmc.files.wordpress.com/2019/07/terraform_primarylogo_fullcolor.png" width=150 height=75>
 <img src="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/Uploads/openstack-vert.jpg" width=100 height=100>
 <img src="https://qbd.eu/wp-content/uploads/azure-logo.png" width=200 height=100>
 </p>
