@@ -63,7 +63,7 @@ ________________________________________________________________________________
 <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" height=100 width=200>
 <img src="https://miro.medium.com/max/1000/1*gViWI8dDXWcBkRdDP_CpQQ.png" height=100 width=200>
 <img src="https://cdn.dribbble.com/users/6295/screenshots/6509850/f.gif" height=100 width=200>
-<img src="https://logowik.com/content/uploads/images/scala3486.jpg" height=100 width=200>  
+<img src="https://logovtor.com/wp-content/uploads/2020/11/scala-programming-language-logo-vector.png" height=100 width=200>  
 </p>
 
 
