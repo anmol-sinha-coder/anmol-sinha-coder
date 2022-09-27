@@ -10,6 +10,8 @@
 + Jenkins, 
 + Docker,
 + Kubernetes,
++ Selenium
++ Ansible
 + Prometheus, 
 + Grafana, 
 + ELK Stack, 
