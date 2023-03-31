@@ -6,7 +6,7 @@
 + Natural Language Processing, 
 + Computer Vision, and
 + Audio Processing.
-! Experienced in CI/CD and automation, with tools and technologies:-
+! Experienced in CI/CD and Automation, with tools and technologies:-
 + Jenkins, 
 + Docker,
 + Kubernetes,
@@ -14,8 +14,15 @@
 + Ansible
 + Prometheus, 
 + Grafana, 
-+ ELK Stack, 
-+ Hadoop[Scala, Hive, MapReduce etc].
++ ELK Stack
+! Experience in Big Data tools and technologies such as :=
++ Hadoop
++ Hive
++ Spark
++ HDFS
++ HUDI
++ YARN
++ MapReduce architecture (used by DAG's)
 ! Well-versed with Cloud technologies like AWS and Azure as well as IaC tool Terraform for Hybrid-Multi Cloud integration.
 ! Experienced and trained in managing Linux distros such as Kali Linux, Debian GNU/Ubuntu (Ubuntu, Kubuntu), Redhat/CentOS.
 ```
