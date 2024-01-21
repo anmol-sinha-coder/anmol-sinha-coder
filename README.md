@@ -1,7 +1,9 @@
 ## Hi there 👋 :grin:
 
 ```diff
-! Motivated and solution-oriented developer with experience in fields of 
+! Motivated and solution-oriented developer with experience in fields of
++ MERN Stack Developer (MongoDB Express React NodeJS)
++ DBMS (SQL): PostgreSQL / Oracle / Microsoft SQL Server / MySQL / AWS Athena / Spark SQL
 + Data Analytics, Deep Learning(Artificial Neural Networks), 
 + Natural Language Processing, 
 + Computer Vision, and
